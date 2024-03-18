@@ -28,7 +28,7 @@ TotalSleep: Total sleep time in hours per day. Awake: Time spent awake in hours 
 
 Usage
 
-To utilize this project effectively, follow these steps: Ensure Python 3.11 or higher is installed on your system. Clone the repository: git clone https://github.com/AbedAdounkpe/PredSleep.git Navigate to the project directory: cd PredSleep Install required dependencies: pip install -r requirements.txt Execute the main script to start the prediction process. Follow the interactive prompts or execute specific modules as needed for analysis.
+To utilize this project effectively, follow these steps: Ensure Python 3.11 or higher is installed on your system. Clone the repository: git clone https://github.com/RisselZarzi/SleepPredictionInMammals.git Navigate to the project directory: cd PredSleep Install required dependencies: pip install -r requirements.txt Execute the main script to start the prediction process. Follow the interactive prompts or execute specific modules as needed for analysis.
 
 Methodology
 
